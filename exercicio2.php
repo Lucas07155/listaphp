@@ -2,8 +2,8 @@
   <!--DATA 05/09/2024 -->
   <!--Professor: Luís Alberto Pires de Oliveira-->
   <!--Lista de exercício PHP 03/09/24-->
-  
-<!DOCTYPE html>
+
+  <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
